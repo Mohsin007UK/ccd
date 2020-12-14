@@ -8,6 +8,9 @@ return(
   <div className="App">
     <Greet name="Bruce" country="BD"/>
     <Greet name="Clark" country= "CD"/>
+    <Greet name="Clark" country= "CD"/>
+    <Greet name="Clark" country= "CD"/>
+    <Greet name="Clark" country= "CD"/>
   
   </div>
 );
